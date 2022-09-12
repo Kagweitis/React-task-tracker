@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Functionality
+The application can perform simple crud functions that entail creating deleting and updating a task. I used JSON server as a mock server for the backend. Th purpose of the project was to get acquainted with react JS. 
+![image](https://user-images.githubusercontent.com/50962236/189643625-fa15e02c-f84a-428a-815c-511f9511e9ef.png)
+
+![image](https://user-images.githubusercontent.com/50962236/189643730-b6015810-d698-4a45-81e7-cf58d8def5b8.png)
+![image](https://user-images.githubusercontent.com/50962236/189644035-d9eb2350-c939-4fc9-95fb-17ba0e2b4664.png)
+
+![image](https://user-images.githubusercontent.com/50962236/189643978-7b57078c-f8f3-4a49-b7b2-9fb8558bd4dc.png)
